@@ -1,8 +1,9 @@
 # **IT3133_Day-07**
 
 
-2020ICT57
-This code demonstrate how to transfer data from a child component to a parent component i React using state and props.
+## 2020ICT57
+
+This code demonstrate how to transfer data from a child component to a parent component in React using state and props.
 
 
 ## Project Overview
